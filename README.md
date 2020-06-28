@@ -1,6 +1,6 @@
-# yzf-react-lib
+# YZF-REACT-LIB
 
-云账房 react 组件库以及文档
+云账房 react 组件库以及文档 <https://mianbing.github.io/yzf-react-lib/>
 
 ## 文档编写
 
